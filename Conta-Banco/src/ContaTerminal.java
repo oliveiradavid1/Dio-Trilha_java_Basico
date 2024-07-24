@@ -11,7 +11,6 @@ public class ContaTerminal {
         int numeroConta;
         String agencia;
         double saldo;
-
         
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
